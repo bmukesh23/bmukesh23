@@ -1,10 +1,12 @@
 <img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%">
 
-### 👋 Hey there! I'm Mukesh
+<div align="center">
+<h2>👋 Hey there! I'm Mukesh</h1>
+</div>
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="programmer.gif" src="./assets/images/programming.svg" width=200px>
+  <img align="right" alt="" src="./assets/images/programming.svg" width=200px>
 </picture>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -19,7 +21,7 @@
 <div align="left">  
   <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js" height="40" />  
   <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,express,mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,docker,vercel,linux,netlify" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,docker,linux" height="40"/>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
