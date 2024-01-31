@@ -21,7 +21,7 @@
 <div align="left">  
   <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js" height="40" />  
   <img src="https://skillicons.dev/icons?i=typescript,react,redux,next,nodejs,express,mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,docker,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,docker,linux,vercel" height="40"/>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
