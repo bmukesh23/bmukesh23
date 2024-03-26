@@ -19,9 +19,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 <div align="left">  
-  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js" height="40" />  
-  <img src="https://skillicons.dev/icons?i=typescript,react,next,nodejs,express,mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql,git,solidity,docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,typescript" height="40" />  
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,jest,vitest,solidity,docker" height="40"/>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
