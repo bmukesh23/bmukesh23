@@ -1,7 +1,7 @@
 <img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%">
 
 <div align="center">
-<h2>👋 Hey there! I'm Mukesh</h1>
+<h2>Hey there! I'm Mukesh 👋🏼</h1>
 </div>
 
 I am a 21-year-old full-stack developer based in India, and I am passionate about continuous learning and always strive to improve my skills in order to deliver high-quality software solutions. 
