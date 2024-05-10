@@ -4,25 +4,24 @@
 <h2>👋 Hey there! I'm Mukesh</h1>
 </div>
 
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/images/programming.svg" width=200px>
-</picture>
+I am a 21-year-old full-stack developer based in India, and I am passionate about continuous learning and always strive to improve my skills in order to deliver high-quality software solutions. 
+- Currently pursuing B.Tech. in Computer Science and Engineering (CSE) from VCET.
+- I enjoy building side projects and contributing to open-source projects.
+- Check out my [website](https://mukeshbilla.vercel.app/) to learn more about me.
 
-### 👨🏻‍💻 &nbsp;About Me
+## 📦 Toolbox
 
-👀 &nbsp;I’m interested in Core Java, MERN Stack Development and Data Structures & Algorithms.\
-🌱 &nbsp;I'm currently learning AWS for cloud development.\
-🎓 &nbsp;I'm currently studying CSE-DS at Vidyavardhini College Of Engineering and Technology.\
-✉️ &nbsp;You can shoot me an email at billamukesh1234@gmail.com! I'll try to respond as soon as I can.
+**Languages:** `Java` `JavaScript` `TypeScript`
 
-### 🛠 &nbsp;Tech Stack
+**Frontend Development:** `React` `Next.js` `Tailwind CSS` `Framer-Motion`
 
-<div align="left">  
-  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,typescript" height="40" />  
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,jest,vitest,docker" height="40"/>
-</div>
+**Backend Development:** `Node.js` `Express.js` 
+ 
+**Databases:** `MySQL` `MongoDB`
+
+**Developer Tools:** `Git` `Github` `AWS` `Docker`
+
+**Testing:** `Jest` `Vitest` `Postman`
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -33,10 +32,6 @@
 </a>
 </div>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 📫 Contact
 
-<div align="left">
-<a href="https://linkedin.com/in/mukeshbilla/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="35" />
-</a>
-</div>
+ For a quick response, DM me on [LinkedIn](https://linkedin.com/in/mukeshbilla/). 
