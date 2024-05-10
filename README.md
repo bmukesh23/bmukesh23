@@ -19,15 +19,6 @@ I am a 21-year-old full-stack developer based in India, and I am passionate abou
 
 **Testing:** `Jest` `Vitest` `Postman`
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="left">
-<a href="https://github.com/bmukesh23">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=bmukesh23&show_icons=true&theme=algolia&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmukesh23&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
-
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://linkedin.com/in/mukeshbilla/). 
