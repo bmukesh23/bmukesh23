@@ -1,4 +1,4 @@
-<!-- img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%" -->
+<img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/>
 
 ### Hey, I'm Mukesh 👋🏽</h1>
  
