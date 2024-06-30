@@ -11,9 +11,9 @@ I am a 21-year-old full-stack developer based in India, and I am passionate abou
 
 **Languages:** `Java` `JavaScript` `TypeScript`
 
-**Frontend Development:** `React` `Next.js` `Tailwind CSS` `Framer-Motion`
+**Frontend Development:** `React` `Next.js` `Tailwind CSS` `Framer-Motion` `shadcn-UI`
 
-**Backend Development:** `Node.js` `Express` `Firebase` `AppWrite`
+**Backend Development:** `Node.js` `Express` `Firebase`
 
 **Databases:** `PostgreSQL` `MongoDB`
 
