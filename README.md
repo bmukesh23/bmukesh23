@@ -19,7 +19,7 @@ I am a 21-year-old full-stack developer based in India, and I am passionate abou
 
 **Developer Tools:** `Git` `Github` `AWS` `Docker`
 
-**Testing:** `Jest` `Vitest` `Postman`
+**Testing:** `Vitest` `Postman`
 
 ## 📫 Contact
 
