@@ -1,10 +1,10 @@
 <!--img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/-->
 
-### Hi there👋🏽</h1>
- 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a full-stack developer.
+### Hi there!👋🏽</h1>
 
- I specialize in developing MERN applications and am currently pursuing a Bachelor of Engineering (B.E) in Computer Science & Engineering from VCET. I work persistently with self-discipline and commitment to enhance my skills. As a dedicated and enthusiastic developer, I thrive on creating efficient, scalable, and user-friendly applications. I am also exploring generative AI models to develop web projects.
+I am [Mukesh](https://mukeshbilla.vercel.app/), a Full-Stack Developer with a strong focus on Frontend Development and Java.
+
+I like combining my technical knowledge with design to make beautiful and efficient web applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
 ## 📦 Toolbox
 
