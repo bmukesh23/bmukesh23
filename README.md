@@ -1,11 +1,10 @@
-<img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/>
+<!--img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/-->
 
-### Hey, I'm Mukesh 👋🏽</h1>
+### Hi there👋🏽</h1>
  
-I am a 21-year-old full-stack developer based in India, and I am passionate about crafting digital experiences. 
-- Currently pursuing B.Tech. in Computer Science and Engineering (CSE) from VCET.
-- I enjoy building side projects and contributing to open-source projects.
-- Check out my [website](https://mukeshbilla.vercel.app/) to learn more about me.
+I am [Mukesh](https://mukeshbilla.vercel.app/), a full-stack developer.
+
+ I specialize in developing MERN applications and am currently pursuing a Bachelor of Engineering (B.E) in Computer Science & Engineering from VCET. I work persistently with self-discipline and commitment to enhance my skills. As a dedicated and enthusiastic developer, I thrive on creating efficient, scalable, and user-friendly applications. I am also exploring generative AI models to develop web projects.
 
 ## 📦 Toolbox
 
