@@ -8,17 +8,18 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 ## 📦 Toolbox
 
-**Languages:** `Java` `JavaScript` `TypeScript`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgresql,redis,graphql,prisma" />  
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,githubactions,docker,aws,vitest,postman" />
+</p>
 
-**Frontend Development:** `React` `Next.js` `Tailwind CSS` `Framer-Motion` `shadcn-UI`
+## ⚙️ GitHub Analytics
 
-**Backend Development:** `Node.js` `Express` `Firebase`
-
-**Databases:** `PostgreSQL` `MongoDB`
-
-**Developer Tools:** `Git` `Github` `AWS` `Docker`
-
-**Testing:** `Vitest` `Postman`
+<div>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bmukesh23&show_icons=true&theme=algolia&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmukesh23&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
 ## 📫 Contact
 
