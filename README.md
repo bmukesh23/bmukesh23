@@ -9,7 +9,7 @@ I like combining my technical knowledge with design to make beautiful and effici
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs, flask" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,graphql,prisma,appwrite" />  
   <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,githubactions,docker,aws,vitest,postman" />
 </p>
