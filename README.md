@@ -9,9 +9,10 @@ I like combining my technical knowledge with design to make beautiful and effici
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs,npm" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,graphql,prisma,appwrite" />  
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,docker,aws,vitest,postman,flask" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,express,flask,mongodb,mysql,postgresql,prisma,redis" />  
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,docker,aws,vitest,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=pkl,sklearn,tensorflow,pytorch" />
 </p>
 
 ## ⚙️ GitHub Analytics
