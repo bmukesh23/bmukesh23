@@ -21,7 +21,7 @@ I like combining my technical knowledge with design to make beautiful and effici
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmukesh23&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-## 🏆 GSSoC(24) Badges
+## 🏆 GSSoC24 Badges
 
  <div style="display:flex; align-items:center; gap: 8px; flex-wrap: nowrap; overflow-x: auto;" align="left">
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
