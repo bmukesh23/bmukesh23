@@ -21,6 +21,20 @@ I like combining my technical knowledge with design to make beautiful and effici
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmukesh23&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
+## 🏆 GSSOC(24) Badges
+
+ <div style="display:flex; align-items:center; gap: 8px; flex-wrap: nowrap; overflow-x: auto;" align="left">
+     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px" height="90px" />
+     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90px" height="90px" />
+ </div>
+
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://linkedin.com/in/mukeshbilla/). 
