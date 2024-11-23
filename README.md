@@ -2,9 +2,10 @@
 
 ### Hi there!👋🏽</h1>
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a Full-Stack Developer with a strong focus on Frontend Development, Python, and Java.
+I am [Mukesh](https://mukeshbilla.vercel.app/), a full-stack developer with solid foundations in frontend development, and DSA in Java.
 
-I like combining my technical knowledge with design to make beautiful and efficient web applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+I like combining my technical knowledge with design to make beautiful and efficient web applications. I aim to build scalable and efficient software while providing engaging and flawless user experiences.
+I'm also exploring the latest advancements in Generative AI, from neural networks and transformer models to practical applications in Natural Language Processing (NLP).
 
 ## 📦 Toolbox
 
