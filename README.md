@@ -2,7 +2,7 @@
 
 ### Hi there!👋🏽</h1>
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a full-stack developer with solid foundations in frontend development, and DSA in Java.
+I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid foundations in frontend development, and DSA in Java.
 
 <p>I like combining my technical knowledge with design to make beautiful and efficient web applications. I aim to build scalable and efficient software while providing engaging and flawless user experiences.</p>
 <p>I'm also exploring the latest advancements in Generative AI, from neural networks and transformer models to practical applications in Natural Language Processing (NLP).</p>
