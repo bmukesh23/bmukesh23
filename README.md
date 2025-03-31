@@ -11,7 +11,7 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid f
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs,npm" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,prisma,pytorch,tensorflow,pkl" />  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,prisma,pytorch,tensorflow" />  
   <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,githubactions,docker,aws,vitest,postman,sklearn" />
 </p>
 
