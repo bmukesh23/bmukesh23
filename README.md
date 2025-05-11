@@ -5,14 +5,14 @@
 I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid foundations in frontend development, and DSA in Java.
 
 <p>I like combining my technical knowledge with design to make beautiful and efficient web applications. I aim to build scalable and efficient software while providing engaging and flawless user experiences.</p>
-<p>I'm also exploring the latest advancements in Generative AI, from neural networks and transformer models to practical applications in Natural Language Processing (NLP).</p>
 
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs,npm" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,prisma,pytorch,tensorflow,pkl" />  
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,githubactions,docker,aws,vitest,postman,sklearn" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,npm,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql" />  
+  <img src="https://skillicons.dev/icons?i=firebase,docker,aws,vitest,postman" />
 </p>
 
 ## ⚙️ GitHub Analytics
