@@ -2,16 +2,16 @@
 
 ### Hi there!👋🏽</h1>
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid foundations in frontend development and DSA in Java.
+I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid foundations in frontend developmen and DSA in Java.
 
 <p>I like combining my technical knowledge with design to make beautiful and efficient web applications. I aim to develop scalable and efficient software that provides engaging and seamless user experiences.</p>
 
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react,redux" />
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,spring,hibernate,mysql,postgresql,mongodb" />  
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,githubactions,docker,aws,jenkins,postman" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=redux,nextjs,nodejs,express,spring,hibernate,maven" />  
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,postman,git,aws" />
 </p>
 
 ## ⚙️ GitHub Analytics
