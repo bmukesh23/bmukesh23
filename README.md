@@ -9,9 +9,9 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid f
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react" />
-  <img src="https://skillicons.dev/icons?i=redux,nextjs,nodejs,express,spring,hibernate,maven" />  
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,postman,git,aws" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react,redux,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate,maven,mysql,postgresql,mongodb,firebase" />  
+  <img src="https://skillicons.dev/icons?i=postman,git,aws,docker" />
 </p>
 
 ## ⚙️ GitHub Analytics
