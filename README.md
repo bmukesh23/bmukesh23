@@ -2,9 +2,8 @@
 
 ### Hi there!👋🏽</h1>
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer with solid foundations in Full-Stack Web Development and DSA in Java.
-
-<p>I like combining my technical knowledge with design to make beautiful and efficient web applications. I aim to develop scalable and efficient software that provides engaging and seamless user experiences.</p>
+I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer specializing in Full-Stack Web Development with expertise in React and Spring Boot, and strong foundations in Data Structures & Algorithms using Java.
+<p>I enjoy combining technical expertise with design principles to build scalable, efficient, and visually appealing web applications. My goal is to create software that delivers engaging, seamless, and impactful user experiences.</p>
 
 ## 📦 Toolbox
 
