@@ -1,6 +1,6 @@
 <!--img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/-->
 
-### Hi there!👋🏽</h1>
+### Hi there!👋🏽
 
 I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer specializing in React.js and Spring Boot, and strong foundation in DSA using Java.
 <p>I enjoy combining technical expertise with design principles to build scalable, efficient, and visually appealing web applications. My goal is to create software that delivers engaging, seamless, and impactful user experiences.</p>
