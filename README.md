@@ -8,8 +8,8 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a software engineer specializing
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react,redux,nextjs,nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,mysql,postgresql,mongodb,firebase,postman,git,aws,docker" />  
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react,redux,nextjs,nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,mysql,postgresql,mongodb,firebase,postman,git,github,aws,docker" />  
 <!--   <img src="https://skillicons.dev/icons?i=" /> -->
 </p>
 
