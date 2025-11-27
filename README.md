@@ -2,9 +2,8 @@
 
 ### Hi there!👋🏽
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a passionate Software Engineer with a strong focus on Full Stack Web Development and Data Structures & Algorithms (DSA) in Java. 
-<p>I thrive on solving complex challenges and am always eager to stay updated with the latest industry trends. I'm committed to building high-quality, scalable software that delivers excellent user experiences.</p>
-<p>With a keen interest in both frontend and backend technologies, I'm excited to collaborate, learn, and contribute to impactful projects.</p>
+I am [Mukesh](https://mukeshbilla.vercel.app/), a passionate Software Engineer with a strong focus on Full Stack Web Development and DSA in Java. 
+<p>I thrive on solving complex challenges and am always eager to stay updated with the latest industry trends. I'm committed to building high-quality, scalable software that delivers excellent user experiences. With a keen interest in both frontend and backend technologies, I'm excited to collaborate, learn, and contribute to impactful projects.</p>
 
 ## 📦 Toolbox
 
