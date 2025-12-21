@@ -1,16 +1,17 @@
-<!--img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/-->
+<img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/>
 
 ### Hi there!👋🏽
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a passionate Software Engineer with a strong focus on Full Stack Web Development and DSA in Java. 
-<p>I thrive on solving complex challenges and am always eager to stay updated with the latest industry trends. I'm committed to building high-quality, scalable software that delivers excellent user experiences. With a keen interest in both frontend and backend technologies, I'm excited to collaborate, learn, and contribute to impactful projects.</p>
+I am [Mukesh](https://mukeshbilla.vercel.app/), a Full Stack Developer with strong hands-on experience in the **MERN stack**, building scalable and user-focused web applications.
+
+<p>I enjoy solving real-world engineering challenges and continuously improving my skills by staying up to date with modern web technologies. With a strong interest in both frontend and backend development, I focus on creating clean user interfaces and efficient backend APIs, and I’m always excited to collaborate, learn, and contribute to impactful projects.</p>
+
 
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react,redux,nextjs,nodejs,express,prisma" />
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,mysql,postgresql,mongodb,firebase,postman,git,github,aws,docker" />  
-<!--   <img src="https://skillicons.dev/icons?i=" /> -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,prisma,postman,git,github,aws,docker" />  
 </p>
 
 ## ⚙️ GitHub Analytics
