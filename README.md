@@ -1,4 +1,4 @@
-<img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/>
+<!--img align="center" src="assets/images/Pixel Jeff_ Photo.gif" alt="banner.gif" width="100%"/!-->
 
 ### Hi there!👋🏽
 
@@ -21,6 +21,7 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a Full Stack Developer with stro
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmukesh23&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
+<!--
 ## 🏆 GSSoC24 Badges
 
  <div style="display:flex; align-items:center; gap: 8px; flex-wrap: nowrap; overflow-x: auto;" align="left">
@@ -31,6 +32,7 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a Full Stack Developer with stro
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
  </div>
+ !-->
 
 ## 📫 Contact
 
