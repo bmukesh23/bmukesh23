@@ -17,7 +17,7 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a Frontend Developer with strong
 ## ⚙️ GitHub Analytics
 
 <div>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bmukesh23&show_icons=true&theme=algolia&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bmukesh23&show_icons=true&theme=algolia&count_private=true"/>
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bmukesh23&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
