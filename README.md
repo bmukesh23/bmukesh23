@@ -2,7 +2,7 @@
 
 ### Hi there!👋🏽
 
-I am [Mukesh](https://mukeshbilla.vercel.app/), a Frontend Developer with strong hands-on experience in **React.js** and **TypeScript**, building scalable and user-focused web applications.
+I am [Mukesh](https://mukeshbilla.vercel.app/), a Software Developer with strong hands-on experience in **Java**, **Spring**, **Spring Boot**, **AngularJS**, and **MySQL**, building scalable and user-focused web applications.
 
 <p>I enjoy solving real-world engineering challenges and continuously improving my skills by staying up to date with modern web technologies. With a strong interest in both frontend and backend development, I focus on creating clean user interfaces and efficient backend APIs, and I’m always excited to collaborate, learn, and contribute to impactful projects.</p>
 
@@ -10,8 +10,8 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a Frontend Developer with strong
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,prisma,postman,git,github,aws,docker" />  
+  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,ts,react,redux,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,mongodb,mysql,postgresql,redis,postman,git,github,aws,docker" />  
 </p>
 
 ## ⚙️ GitHub Analytics
