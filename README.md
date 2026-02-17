@@ -10,8 +10,8 @@ I am [Mukesh](https://mukeshbilla.vercel.app/), a Software Developer with strong
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,js,ts,react,redux,nextjs,nodejs,express,go" />
-  <img src="https://skillicons.dev/icons?i=angular,spring,mongodb,mysql,postgresql,redis,postman,git,github,aws,docker,python" />  
+  <img src="https://skillicons.dev/icons?i=go,java,python,js,html,css,tailwind,ts,react,angular" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,redis,postman,aws,docker" />  
 </p>
 
 ## ⚙️ GitHub Analytics
